@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="large-12 column">
+    <article>
+      <h1>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+      </h1>
+      <h6 class="subheader"> {{ page.date | date_to_string }} </h6>
+      {{ content }}
+    </article>
+  </div>
+</div>
+
