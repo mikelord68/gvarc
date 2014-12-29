@@ -1,5 +1,5 @@
 ---
-title: 2015 GVARC Amatuer Radio License Testing Schedule
+title: 2015 GVARC Amateur Radio License Testing Schedule
 layout: news_item
 ---
 
