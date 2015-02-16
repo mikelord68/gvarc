@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<!--[if IE 9]>    <html class="lt-ie10" lang="en"> <![endif]-->
+<html class="no-js" lang="en"> 
 
 <head>
   <meta charset="utf-8" />
 
   <!-- Set the viewport width to device width for mobile -->
-  <meta name="viewport" content="width=device-width" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <title>{{ page.title }} | gvarc.org</title>
 
@@ -19,7 +19,8 @@
   {% include analytics.html %}
 </head>
 <body>
-  <nav class="top-bar">
+<div class="fixed">
+  <nav class="top-bar" data-topbar role="navigation">
   <ul class="title-area">
     <li class="name">
       <h1>
@@ -46,4 +47,5 @@
     </ul>
   </section>
   </nav> 
-  <br>
+</div>
+<br>
