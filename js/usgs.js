@@ -1,5 +1,5 @@
 
-var stations = '&countyCd=48091';
+var stations = '&sites=08167000,08167500,08167700,08167800,08167900,08169000,08168500,08168797,08169792,08173900,08175800,08176500';
 
 var request = $.ajax({
     url: 'http://waterservices.usgs.gov/nwis/iv/?format=json' + stations 
