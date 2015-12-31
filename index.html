@@ -57,9 +57,6 @@ layout: default
         {% for post in site.posts limit:4 %}
           <div class="panel radius">
             <a href="{{ post.url }}"><h5> {{ post.title }}</h5></a>
-            {% if forloop.first  %}
-             {{ post.excerpt | strip_html }}
-            {% endif %}
           </div>
         {% endfor %}
       </div>
