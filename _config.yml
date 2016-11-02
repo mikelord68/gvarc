@@ -3,4 +3,8 @@ markdown: redcarpet
 highlighter: pygments
 paginate: 5
 paginate_path: "/news/page:num"
+gems:
+        - jekyll-paginate
+
+
 
