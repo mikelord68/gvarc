@@ -12,5 +12,10 @@ Exam Schedule:
 * 2-March-2017
 * 30-March-2017
 
-Please contact Rich Compaeu at <a href='ma&#105;&#108;to&#58;ric%68&#99;om&#112;&#97;%&#54;5%75&#64;&#37;&#54;E&#37;65t&#115;&#37;6&#51;&#97;p&#101;&#46;net'>richcomp&#97;&#101;u&#64;netsc&#97;pe&#46;n&#101;t</a> for more information or to schedule your exam.
+Please contact Rich Compeau at <a href='mai&#108;to&#58;&#37;72ic&#37;68compea%7&#53;%40netsc&#37;&#54;&#49;pe%2E&#110;e&#116;'>r&#105;&#99;hc&#111;mp&#101;au&#64;n&#101;t&#115;&#99;ape&#46;net</a> for more information or to schedule your exam. 
+
+
+
+
+
 
