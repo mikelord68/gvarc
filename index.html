@@ -54,10 +54,10 @@ layout: default
       <div class="large-4 columns">
         <h3> Latest News </h3>
         <hr>
-        {% for post in site.posts limit:4 %}
-          <div class="panel radius">
-            <a href="{{ post.url }}"><h5> {{ post.title }}</h5></a>
-          </div>
+          {% for post in site.posts limit:3 %}
+          {{ post.date | date_to_string }}
+          <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+        <hr>
         {% endfor %}
       </div>
     </div>
