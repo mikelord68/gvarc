@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div class="row">
+  <h1>Exam Study Resources</h1>
+  <p>
+    There are several resources that you can use to prepare for you license exam.  Here is a curated list of test prepartion websites and applications.
+  </p>
+  <hr>
+</div>
+
+{% for entry in site.data.study %}
+<div class="row">
+  <div class="row">
+    <div class="large-12 columns large-centered text-center">
+      <h3>{{ entry.site }}</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-4 columns text-center">
+      <strong>URL</strong>
+      <br>
+      <a href="{{ entry.url }}">{{ entry.url }}</a>
+    </div>
+    <div class="large-4 columns text-center">
+      <strong>Sign Up Required</strong>
+      <br>
+      {{ entry.signup }}
+    </div>
+    <div class="large-4 columns text-center">
+      <strong>Cost</strong>
+      <br>
+      {{ entry.cost }}
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="large-12 columns text-center">
+      <strong>Comments</strong>
+      <br>
+      {{ entry.comments }}
+    </div>
+  </div>
+  {% unless forloop.last %} 
+    <hr>
+  {% endunless %}
+</div>
+{% endfor %}
