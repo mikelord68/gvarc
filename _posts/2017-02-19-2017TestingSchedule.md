@@ -1,6 +1,7 @@
 ---
 title: 2017 Testing Dates
 layout: news_item
+author: NK5P
 ---
 
 GVARC has finalized dates for the 2017 (and the first 2018 date) Amateur Radio License Testing schedule.

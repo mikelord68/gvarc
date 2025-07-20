@@ -1,6 +1,7 @@
 ---
 title: 2014 Quarter Two GVARC VE Test Session
 layout: news_item
+author: NK5P
 ---
 
 <strong>It's that time again!</strong>

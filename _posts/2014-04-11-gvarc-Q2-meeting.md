@@ -1,6 +1,7 @@
 ---
 title: 2014 Quarter Two GVARC Business Meeting
 layout: news_item
+author: NK5P
 ---
 
 The 2nd quarter GVARC business meeting will be held on Saturday April 12th.

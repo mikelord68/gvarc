@@ -1,6 +1,7 @@
 ---
 title: 2014 GVARC Christmas Party
 layout: news_item
+author: NK5P
 ---
 ## Save The Date!
 <img src="/img/santa_radio.jpg" alt="Santa is a Ham!"> 

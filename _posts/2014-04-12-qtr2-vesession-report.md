@@ -1,6 +1,7 @@
 ---
 title: 2nd Quarter 2014 VE Testing Session Report
 layout: news_item
+author: NK5P
 ---
 
 Our tireless VE liaison has reported another fruitful testing session.

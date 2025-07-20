@@ -1,6 +1,7 @@
 ---
 title: Repeater Move Update – Climber Scheduled, Installation Starts July 16
 layout: news_item
+author: N5MCL
 ---
 The long-anticipated move of the GVARC repeater is now entering its final phase.
 

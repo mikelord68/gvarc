@@ -1,6 +1,7 @@
 ---
 title: The Wurst Ever Swap Meet
 layout: news_item
+author: NK5P
 ---
 
 <img src="/img/daytonants.jpg" style="float:right; margin:10px">

@@ -1,6 +1,7 @@
 ---
 title: GVARC 2014 Winter Field Day
 layout: news_item
+author: NK5P
 ---
 
 For anyone planning ahead, GVARC will be participating in the Society for the Preservation of Amateur Radio (SPAR) 2014 Winter Field Day event on January 25th and 26th.

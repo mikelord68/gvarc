@@ -1,6 +1,7 @@
 ---
 title: 2015 GVARC Christmas Party
 layout: news_item
+author: NK5P
 ---
 
 {::nomarkdown}

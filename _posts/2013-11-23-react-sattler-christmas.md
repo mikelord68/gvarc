@@ -1,6 +1,7 @@
 ---
 title: 2013 Sattler Christmas Parade
 layout: news_item
+author: NK5P
 ---
 
 It's that time of the year again, Hill Country REACT is looking for volunteers to help with the 2013 Christmas Parade in Sattler.

@@ -1,6 +1,7 @@
 ---
 title: 2025 Field Day Recap
 layout: news_item
+author: N5MCL
 ---
 GVARC’s 2025 ARRL Field Day was a huge success, showing major improvements over last year’s performance! Operating under the club call sign **K5C**, members racked up **580 QSOs**, a jump from last year’s 423. That boost was largely thanks to the persistence of KA0ZRW, N5ZR, and a dedicated group of robotics students who stayed late into the evening.
 

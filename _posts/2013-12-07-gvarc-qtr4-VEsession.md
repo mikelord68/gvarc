@@ -1,6 +1,7 @@
 ---
 title: 2014 Quarter One GVARC VE Test Session
 layout: news_item
+author: NK5P
 ---
 
 The next regularly scheduled GVARC test session wil be held on January 4th, 2014 at the [New Braunfels Fire Department Training Facility](https://www.google.com/maps/preview#!q=1311+Industrial+St%2C+New+Braunfels%2C+TX+78130&data=!4m15!2m14!1m13!1s0x865cbd2f8fe7a175%3A0x5e9cd14f2875a896!3m8!1m3!1d4503!2d-98.0991976!3d29.715403!3m2!1i1916!2i998!4f13.1!4m2!3d29.715403!4d-98.0991976) located at 1311 Industrial Drive Suite A, New Braunfels, TX 78130.  

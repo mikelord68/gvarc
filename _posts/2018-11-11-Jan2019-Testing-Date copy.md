@@ -1,6 +1,7 @@
 ---
 title: January 2019 Testing Date
 layout: news_item
+author: NK5P
 ---
 To avoid any conflict with the San Antonio Radio Club [Radio Fiesta](http://w5sc.org/radio-fiesta/), GVARC has adjusted the first quarter testing session to 19-January-2019.
 

@@ -1,6 +1,7 @@
 ---
 title: 2016 GVARC Testing Schedule
 layout: news_item
+author: NK5P
 ---
 
 The dates for our 2016 testing sessions have been set.

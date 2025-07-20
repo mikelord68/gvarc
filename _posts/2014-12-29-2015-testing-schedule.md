@@ -1,6 +1,7 @@
 ---
 title: 2015 GVARC Amateur Radio License Testing Schedule
 layout: news_item
+author: NK5P
 ---
 
 Dates for the 2015 testing schedule have been finalized.

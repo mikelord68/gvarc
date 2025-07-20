@@ -1,6 +1,7 @@
 ---
 title: 2014 ARRL Field Day Report
 layout: news_item
+author: NK5P
 ---
 
 We had a great turnout for the 2014 Field Day event!

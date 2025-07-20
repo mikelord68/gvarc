@@ -1,6 +1,7 @@
 ---
 title: Bobcat Amateur Radio Club Testing Schedule
 layout: news_item
+author: NK5P
 ---
 
 The Bobcat Amateur Radio Club (BARC) has secured authorization to administer amateur radio license exams.  The club can test for all license classes and the testing will be held on the Texas State campus in RFM 5216.

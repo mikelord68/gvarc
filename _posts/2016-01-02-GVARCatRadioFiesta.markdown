@@ -1,6 +1,7 @@
 ---
 title: SARC Radio Fiesta
 layout: news_item
+author: NK5P
 ---
 
 On January 9th, 2016 San Antonio Radio Club will hold their annual Radio Fiesta in Schertz, Texas.  GVARC will have a table in the swap meet area where GVARC members will be able to sell their items in exchange for a small consignment fee.  The club is also planning to have a table inside where we will be accepting membership applications and discussing our repeater operations. 

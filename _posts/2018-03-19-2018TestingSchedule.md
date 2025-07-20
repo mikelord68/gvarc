@@ -1,6 +1,7 @@
 ---
 title: 2018 Testing Dates
 layout: news_item
+author: NK5P
 ---
 We've got great news for all you hams-to-be and license upgraders!
 
