@@ -7,12 +7,12 @@ For anyone planning ahead, GVARC will be participating in the Society for the Pr
 
 As with all GVARC events, fun and fellowship will be emphasized while demonstrating our competence as amateur radio operators.  Maybe it will be cool outside...
 
-######When
+###### When
 1100 CST January 25th, 2014 through 1100 CST January 26th, 2014.
 
-######Where
+###### Where
 WD5GQT has offered to host this event at his QTH.
 
-######Event Info
+###### Event Info
 <http://spar-hams.org/contests/winterfd/index.php>
 	
