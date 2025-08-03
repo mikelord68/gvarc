@@ -1,5 +1,5 @@
 ---
-title: Repeater Move Update - NBU Site Visit Completed, Awaiting Electrical Work
+title: "Repeater Move Update: NBU Site Visit Completed, Awaiting Electrical Work"
 layout: news_item
 author: N5MCL
 ---
