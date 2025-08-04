@@ -1,0 +1,12 @@
+<div class="row">  
+{% for officer in site.data.officers %}
+  <div class="large-3 columns text-center">
+    <strong> {{ officer.position }} </strong>
+    <br>
+    {{ officer.name }}
+    <br>
+    {{ officer.call }}
+  </div>
+{% endfor %}  
+</div>
+    
