@@ -16,7 +16,8 @@ The dates for this year are:
 + 13-October-2018
 + 12-January-2019
 
-Testing will be held at the New Braunfels Fire Department Training Facility located at 424 S. Castell Ave. in scenic downtown New Braunfels.
+Testing will be held at the New Braunfels Fire Department Training Facility located at 424 S.
+Castell Ave. in scenic downtown New Braunfels.
 
 Identification requirements, expenses, directions, and times can be perused on the [testing](/testing) page. 
 

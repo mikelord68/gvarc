@@ -13,7 +13,9 @@ author: NK5P
 ##### The Details:
 We have secured exclusive usage of the "Back Room" until 2130 (local time).  Granzins only asks that we order all food and beverages from them.
 
-This means that you should only bring your wallet, checkbook (do people still use those things?), or credit card.  Beer (and maybe wine) is available for purchase if that's your thing as well as the award winning BBQ and non-alcholic beverages.
+This means that you should only bring your wallet, checkbook (do people still use those things?), or
+credit card.  Beer (and maybe wine) is available for purchase if that's your thing as well as the
+award winning BBQ and non-alcholic beverages.
 
 Check back soon for more details!
 
