@@ -12,8 +12,6 @@ author: N5MCL
 >
 > Please join us to celebrate friendship, our hobby, and the holiday season.
 >
-> NOTE: In addition to the Christmas party, the normal Saturday club breakfast get together is still on so come to one or both as you wish.
->
-> 73"
+> NOTE: In addition to the Christmas party, the normal Saturday club breakfast get together is still on so come to one or both as you wish."
 >
 > — Dave, AF5PL
