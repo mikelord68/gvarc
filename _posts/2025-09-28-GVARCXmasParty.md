@@ -4,7 +4,7 @@ layout: news_item
 author: N5MCL
 ---
 
-> “Mark it on your calendar; the GVARC Christmas Party is on Saturday, December 13th at Granzins BBQ in the same location as we have our normal Saturday breakfast. 
+> "Mark it on your calendar; the GVARC Christmas Party is on Saturday, December 13th at Granzins BBQ in the same location as we have our normal Saturday breakfast. 
 >
 > Plan on being there at 6'ish PM or a tad before. Get a beverage of your choice and meet in the private room. About 6 or when stomachs demand, we'll all go and order what we wish for dinner off of the menu.
 >
