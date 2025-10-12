@@ -1,5 +1,5 @@
 ---
-title: Repeater Move Update: Making Steady Progress
+title: "Repeater Move Update: Making Steady Progress"
 layout: news_item
 author: N5MCL
 ---
