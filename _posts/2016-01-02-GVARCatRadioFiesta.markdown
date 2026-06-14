@@ -10,6 +10,6 @@ in exchange for a small consignment fee.  The club is also planning to have a ta
 will be accepting membership applications and discussing our repeater operations. 
 
 The Radio Fiesta will be held at the Schertz Civic Center.  Please head over to the [ARRL
-site](http://www.arrl.org/hamfests/san-antonio-radio-club-fiesta-1) for full event details.
+site](https://www.arrl.org/hamfests/san-antonio-radio-club-fiesta-1) for full event details.
 
 Hope to see you there!
