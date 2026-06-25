@@ -17,5 +17,5 @@ amateur radio operators.  Maybe it will be cool outside...
 WD5GQT has offered to host this event at his QTH.
 
 #### Event Info
-<http://spar-hams.org/contests/winterfd/index.php>
+<https://spar-hams.org/contests/winterfd/index.php>
 	

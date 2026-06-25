@@ -4,12 +4,16 @@ layout: news_item
 author: N5MCL
 ---
 
+<<<<<<< HEAD
 ### GVARC Annual Meeting – January 17, 2026  
 
 The **GVARC Annual Meeting** will be held on Saturday, January 17, 2026, in conjunction
  with the normal Saturday morning breakfast gathering at Granzins BBQ on San Antonio Street 
 in New Braunfels. The meeting will begin at approximately 8:00 AM, briefly interrupting breakfast 
 discussions, and will be conducted as efficiently as possible.  
+=======
+The GVARC Annual Meeting** will be held on Saturday, January 17, 2026, in conjunction with the normal Saturday morning breakfast gathering at Granzins BBQ on San Antonio Street in New Braunfels. The meeting will begin at approximately 8:00 AM, briefly interrupting breakfast discussions, and will be conducted as efficiently as possible.  
+>>>>>>> mikelord68/master
 
 In addition to routine club business, all dues-paying GVARC members will be eligible to vote 
 in the election of the Vice President and Secretary at this meeting.  

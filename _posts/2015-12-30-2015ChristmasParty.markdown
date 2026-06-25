@@ -9,7 +9,7 @@ author: NK5P
 <img src="/img/christmasparty.jpg">
 <figcaption>
 <small>
-<a href="http://hunterxcolleen.deviantart.com/art/Dressed-for-the-Christmas-Party-570115955"> Dressed for the Christmas Party</a> by <a href="http://hunterxcolleen.deviantart.com/">HunterxColleen<a href="http://creativecommons.org/licenses/by-sa/3.0/"> CC BY 3.0
+<a href="https://hunterxcolleen.deviantart.com/art/Dressed-for-the-Christmas-Party-570115955"> Dressed for the Christmas Party</a> by <a href="https://hunterxcolleen.deviantart.com/">HunterxColleen<a href="https://creativecommons.org/licenses/by-sa/3.0/"> CC BY 3.0
 </a>
 </small> 
 </figcaption>
