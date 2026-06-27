@@ -1,9 +1,8 @@
 ---
-title: "GVARC Field Day 2026: Fun, Radio, and Fellowship"
+title: "GVARC Field Day 2026: Fun, Radio, and Fellowship – June 27-28, 2026"
 layout: news_item
 author: N5MCL
 ---
-# GVARC Field Day 2026: Fun, Radio and Fellowship
 
 The Guadalupe Valley Amateur Radio Club invites local amateur radio operators, prospective hams, 
 friends and families to join us for **ARRL Field Day 2026**, Saturday and Sunday, **June 27–28**.
